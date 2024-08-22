@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+#You can basically add the path of any file so that it will not be made public into the github

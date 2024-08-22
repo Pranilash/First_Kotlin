@@ -34,6 +34,8 @@ class Two_Half_Acitvity : AppCompatActivity() {
         binding.next1.setOnClickListener{
             val next = Intent(this,Third_Activity::class.java)
             startActivity(next)
+
+
         }
 
         binding.back1.setOnClickListener{

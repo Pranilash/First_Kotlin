@@ -1,1 +1,2 @@
 #This is manually added to txt
+You can also add it by right clicking
